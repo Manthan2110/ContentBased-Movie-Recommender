@@ -85,11 +85,11 @@ With thousands of movies released every year, it becomes overwhelming for users 
 ---
 
 ## 📈 Key Learnings
--🔍 Understanding of content-based filtering in recommender systems
+- 🔍 Understanding of content-based filtering in recommender systems
 
--🧠 Application of cosine similarity for measuring movie similarity
+- 🧠 Application of cosine similarity for measuring movie similarity
 
--🖥️ Use of Streamlit to build quick and beautiful web apps
+- 🖥️ Use of Streamlit to build quick and beautiful web apps
 
 - 🌐 Integrating with external APIs for dynamic media content
 

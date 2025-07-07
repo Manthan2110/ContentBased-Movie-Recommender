@@ -11,7 +11,7 @@ This AI-powered project delivers personalized movie suggestions using **content-
 > 🖼️ Posters and metadata fetched dynamically using the TMDB API  
 > 🎞️ Explore top 6 similar movies with trailers and metadata  
 
-![App Screenshot](https://user-images.githubusercontent.com/your-screenshot.png)
+![App Screenshot](![image](https://github.com/user-attachments/assets/8fd023f3-6437-4683-9c59-573a3e757b45)
 
 ---
 
